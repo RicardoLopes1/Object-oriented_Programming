@@ -3,11 +3,13 @@
 <b>
 In this repository, there're some source codes for classroom practice.
 </b>
-
+<br>
 
 <b>
 I hope that you stay satisfect with my job. 
 </b>
+<pre>
 
 
-<center> <i> <blink> Thank you for your attention! </blink> </i> </center>
+</pre>
+<center> <i>  Thank you for your attention! </i> </center>
