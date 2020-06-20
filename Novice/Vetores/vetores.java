@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 public class vetores {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
@@ -101,8 +100,9 @@ public class vetores {
 
             }//end switch
 
-        if(cmd.equals("end"))break;
+            if(cmd.equals("end"))break;
         }//end while
-
+        System.out.println("#__end__");
+        ler.close();
     }//end main
 }//end vetores

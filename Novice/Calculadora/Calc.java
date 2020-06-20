@@ -58,6 +58,8 @@ public class Calc {
             if (cmd.equals("end"))break;
 
         }//end while
+        System.out.println("#__end__");
+        ler.close();
 
     }//end main
 }//end vetores
